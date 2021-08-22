@@ -50,19 +50,19 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "NG CONF <typeout> 2022"
-eventDate: "Feb, 2022"
+eventDate: "February, 2022"
 typeoutTextValues: '"", "India", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://ngconf.in", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://ti.to/ngconfindia/2021", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
